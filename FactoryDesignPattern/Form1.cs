@@ -68,6 +68,7 @@ namespace FactoryDesignPattern
                 {
                     hairCut.show();
                     hairCut.MakeService(Convert.ToInt32(tLenght.Text));
+                    tLenght.Text = "";
                 }
                 else
                     listBox1.Items.Add("Enter the value");
@@ -87,6 +88,7 @@ namespace FactoryDesignPattern
                 {
                     styling.show();
                     styling.MakeService(tStyle.Text);
+                    tStyle.Text = "";
                 }
                 else
                     listBox1.Items.Add("Enter the value");
@@ -106,6 +108,7 @@ namespace FactoryDesignPattern
                 {
                     hairCare.show();
                     hairCare.MakeService(tProcedure.Text);
+                    tProcedure.Text = "";
                 }
                 else
                     listBox1.Items.Add("Enter the value");

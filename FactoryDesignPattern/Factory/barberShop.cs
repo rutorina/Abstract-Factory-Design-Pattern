@@ -38,7 +38,7 @@ namespace FactoryDesignPattern
         }
         public override void MakeService(string procedure)
         {
-            listBox.Items.Add($"BarberHairCare procedyre{procedure} was performed");
+            listBox.Items.Add($"BarberHairCare procedure {procedure} was performed");
         }
     }
 

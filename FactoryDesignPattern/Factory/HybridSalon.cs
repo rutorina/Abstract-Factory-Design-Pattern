@@ -38,7 +38,7 @@ namespace FactoryDesignPattern
         }
         public override void MakeService(string procedure)
         {
-            listBox.Items.Add($"HybridHairCare procedyre{procedure} was performed");
+            listBox.Items.Add($"HybridHairCare procedure {procedure} was performed");
         }
     }
 
@@ -57,6 +57,6 @@ namespace FactoryDesignPattern
         public override AHairCare CreateHairCare()
         {
             return new HybridHairCare();
-        }
+        } 
     }
 }
