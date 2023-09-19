@@ -1,0 +1,10 @@
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.AssemblyReference.cache
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.Form1.resources
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.Properties.Resources.resources
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.GenerateResource.cache
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+E:\!College\KPZ\FactoryDesignPattern\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
